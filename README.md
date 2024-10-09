@@ -1,1 +1,1 @@
-# fitstic1
+printf('ciao')
